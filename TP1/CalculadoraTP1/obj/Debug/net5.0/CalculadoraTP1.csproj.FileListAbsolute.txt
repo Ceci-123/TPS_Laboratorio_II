@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\CalculadoraTP1\CalculadoraTP1\bin\Debug\net5.0\CalculadoraTP1.deps.json
+C:\Users\user\source\repos\CalculadoraTP1\CalculadoraTP1\bin\Debug\net5.0\CalculadoraTP1.dll
+C:\Users\user\source\repos\CalculadoraTP1\CalculadoraTP1\bin\Debug\net5.0\ref\CalculadoraTP1.dll
+C:\Users\user\source\repos\CalculadoraTP1\CalculadoraTP1\bin\Debug\net5.0\CalculadoraTP1.pdb
+C:\Users\user\source\repos\CalculadoraTP1\CalculadoraTP1\obj\Debug\net5.0\CalculadoraTP1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CalculadoraTP1\CalculadoraTP1\obj\Debug\net5.0\CalculadoraTP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CalculadoraTP1\CalculadoraTP1\obj\Debug\net5.0\CalculadoraTP1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CalculadoraTP1\CalculadoraTP1\obj\Debug\net5.0\CalculadoraTP1.AssemblyInfo.cs
+C:\Users\user\source\repos\CalculadoraTP1\CalculadoraTP1\obj\Debug\net5.0\CalculadoraTP1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CalculadoraTP1\CalculadoraTP1\obj\Debug\net5.0\CalculadoraTP1.dll
+C:\Users\user\source\repos\CalculadoraTP1\CalculadoraTP1\obj\Debug\net5.0\ref\CalculadoraTP1.dll
+C:\Users\user\source\repos\CalculadoraTP1\CalculadoraTP1\obj\Debug\net5.0\CalculadoraTP1.pdb
