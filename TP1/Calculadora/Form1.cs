@@ -17,10 +17,12 @@ namespace Calculadora
         Operando segundoOperando;
         double resultado;
         int seleccion;
+        string cadena;
         
         public frmCalculadora()
         {
             InitializeComponent();
+            this.Limpiar();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -46,7 +48,51 @@ namespace Calculadora
 
         private void btnCerrar_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Esta seguro?");
+            if(MessageBox.Show("Esta seguro que desea cerrar?", "Salir de la aplicacion", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            {
+                Application.Exit();
+
+            }
+
+        }
+
+        private void btnCnvDec_Click(object sender, EventArgs e)
+        {
+            cadena = txtIngreso1.Text;
+            txtResultado.Text = Operando.BinarioDecimal(cadena);
+        }
+
+        private void txtResultado_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        /// <summary>
+        /// Asigna una cadena vacia como valor de texto de los RichTextBox
+        /// </summary>
+        private void Limpiar()
+        {
+            this.txtIngreso1.Text = " ";
+            this.txtIngreso2.Text = " ";
+            this.txtResultado.Text = " ";
+
+
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            this.Limpiar();
+        }
+
+        private void frmCalculadora_FormClosed(object sender, FormClosedEventArgs e)
+        {
+
+        }
+
+        private void btnCnvBinario_Click(object sender, EventArgs e)
+        {
+            cadena = txtIngreso1.Text;
+            txtResultado.Text = Operando.DecimalBinario(cadena);
         }
     }
 }
