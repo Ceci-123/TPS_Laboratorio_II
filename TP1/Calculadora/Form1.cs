@@ -13,12 +13,14 @@ namespace Calculadora
 {
     public partial class frmCalculadora : Form
     {
+        #region variables
         Operando primerOperando;
         Operando segundoOperando;
         double resultado;
-        int seleccion;
         string cadena;
-        
+        string memoria = "";
+        #endregion
+
         public frmCalculadora()
         {
             InitializeComponent();
@@ -37,13 +39,9 @@ namespace Calculadora
 
         private void button1_Click(object sender, EventArgs e)
         {
-            primerOperando = new Operando();
-            segundoOperando = new Operando();
-            primerOperando.SetNumero(txtIngreso1.Text);
-            segundoOperando.SetNumero(txtIngreso2.Text);
-            seleccion = cmbEleccion.SelectedIndex;
-            resultado = Entidades.Calculadora.Operar(primerOperando, segundoOperando, Entidades.Calculadora.Conversor(seleccion));
-            txtResultado.Text = resultado.ToString();
+            resultado = Operar(txtNumero1.Text, txtNumero2.Text, cmbEleccion.SelectedIndex.ToString());
+            lblResultado.Text = resultado.ToString();
+            EscribirHistorial();
         }
 
         private void btnCerrar_Click(object sender, EventArgs e)
@@ -58,8 +56,9 @@ namespace Calculadora
 
         private void btnCnvDec_Click(object sender, EventArgs e)
         {
-            cadena = txtIngreso1.Text;
-            txtResultado.Text = Operando.BinarioDecimal(cadena);
+            cadena = txtNumero1.Text;
+            lblResultado.Text = Operando.BinarioDecimal(cadena);
+            EscribirHistorialBinario();
         }
 
         private void txtResultado_TextChanged(object sender, EventArgs e)
@@ -68,13 +67,13 @@ namespace Calculadora
         }
 
         /// <summary>
-        /// Asigna una cadena vacia como valor de texto de los RichTextBox
+        /// Asigna una cadena vacia como valor de texto de los TextBox y label
         /// </summary>
         private void Limpiar()
         {
-            this.txtIngreso1.Text = " ";
-            this.txtIngreso2.Text = " ";
-            this.txtResultado.Text = " ";
+            this.txtNumero1.Text = " ";
+            this.txtNumero2.Text = " ";
+            this.lblResultado.Text = " ";
 
 
         }
@@ -91,8 +90,66 @@ namespace Calculadora
 
         private void btnCnvBinario_Click(object sender, EventArgs e)
         {
-            cadena = txtIngreso1.Text;
-            txtResultado.Text = Operando.DecimalBinario(cadena);
+            cadena = txtNumero1.Text;
+            lblResultado.Text = Operando.DecimalBinario(cadena);
+            EscribirHistorialBinario();
+        }
+
+        /// <summary>
+        /// Llama al metodo Operar de calculadora pasandole los parametros que necesita
+        /// </summary>
+        /// <param name="numero1"> primer numero ingresado</param>
+        /// <param name="numero2">segundo numero ingresado</param>
+        /// <param name="operador">La operacion a realizarse</param>
+        /// <returns>Devuelve la devolucion del metodo Operar de calculadora</returns>
+        private double Operar(string numero1, string numero2, string operador)
+        {
+            primerOperando = new Operando();
+            segundoOperando = new Operando();
+            primerOperando.SetNumero(numero1);
+            segundoOperando.SetNumero(numero2);
+            char opcion;
+            switch(operador)
+            {
+                case "0":
+                    opcion = '+';
+                    break;
+                case "1":
+                    opcion = '-';
+                    break;
+                case "2":
+                    opcion = '*';
+                    break;
+                case "3":
+                    opcion = '/';
+                    break;
+                default:
+                    opcion = '+';
+                    break;
+            }
+            return Entidades.Calculadora.Operar(primerOperando, segundoOperando, opcion);   
+            
+        }
+
+        /// <summary>
+        /// Escribe en el listbox el contenido de los text box txtNumero1, txtNumero2, la eleccion del combobox
+        /// y el contenido del lblResultado
+        /// </summary>
+        private void EscribirHistorial()
+        {
+            memoria = txtNumero1.Text + cmbEleccion.SelectedItem.ToString() + txtNumero2.Text + " = " + lblResultado.Text + "\n";
+            lstOperaciones.Items.Add(memoria);
+        }
+
+        /// <summary>
+        /// Escribe en el listbox el contenido del text box txtNumero1
+        /// y el contenido del lblResultado
+        /// </summary>
+        private void EscribirHistorialBinario()
+        {
+            memoria = txtNumero1.Text +  " = " + lblResultado.Text + "\n";
+            lstOperaciones.Items.Add(memoria);
+
         }
     }
 }

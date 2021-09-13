@@ -53,29 +53,7 @@ namespace Entidades
             return retorno;
         }
 
-        public static char Conversor(int numero)
-        {
-            char retorno;
-            switch (numero)
-            {
-                case 0:
-                    retorno = '+';
-                    break;
-                case 1:
-                    retorno = '-';
-                    break;
-                case 2:
-                    retorno = '*';
-                    break;
-                case 3:
-                    retorno = '/';
-                    break;
-                default:
-                    retorno = '+';
-                    break;
-            }
-            return retorno;
-        }
+        
         #endregion
 
     }
