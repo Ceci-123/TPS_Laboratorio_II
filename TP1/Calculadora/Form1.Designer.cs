@@ -171,7 +171,7 @@ namespace Calculadora
             this.MinimizeBox = false;
             this.Name = "frmCalculadora";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Ceci";
+            this.Text = "Calculadora de Cecilia Calanna del curso 2° A";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmCalculadora_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
