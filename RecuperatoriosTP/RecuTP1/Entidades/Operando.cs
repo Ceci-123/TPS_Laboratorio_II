@@ -101,11 +101,15 @@ namespace Entidades
         public static string DecimalBinario(string strNumero)
         {
             int numero;
+            int parteDecimal;
             string retorno = "Valor invalido";
             int.TryParse(strNumero, out numero);
+            numero = Math.Abs(numero);
+            parteDecimal = numero % 1;
+            numero = numero - parteDecimal;
             if(numero > 0)
             {
-                retorno = Convert.ToString(numero,2);
+              retorno = Convert.ToString(numero,2);
                 
             }
             return retorno;

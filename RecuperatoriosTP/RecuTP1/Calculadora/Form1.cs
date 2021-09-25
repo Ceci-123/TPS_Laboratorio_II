@@ -50,11 +50,8 @@ namespace Calculadora
 
         private void btnCerrar_Click(object sender, EventArgs e)
         {
-            if(MessageBox.Show("Esta seguro que desea cerrar?", "Salir de la aplicacion", MessageBoxButtons.YesNo) == DialogResult.Yes)
-            {
-                this.Close();
-
-            }
+           
+            this.Close();
 
         }
 
@@ -151,7 +148,7 @@ namespace Calculadora
         /// </summary>
         private void EscribirHistorialBinario()
         {
-            memoria = txtNumero1.Text +  " = " + lblResultado.Text + "\n";
+            memoria =  " = " + lblResultado.Text + "\n";
             lstOperaciones.Items.Add(memoria);
 
         }
@@ -168,9 +165,9 @@ namespace Calculadora
 
         private void frmCalculadora_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (MessageBox.Show("Seguro quiere salir?", "confirmacion de salida", MessageBoxButtons.YesNo) == DialogResult.No)
+            if (MessageBox.Show("Seguro quiere salir?", "Confirmacion de salida", MessageBoxButtons.YesNo) == DialogResult.No)
             {
-                e.Cancel = true;  //this.Close();
+                e.Cancel = true;  
 
              }
         }

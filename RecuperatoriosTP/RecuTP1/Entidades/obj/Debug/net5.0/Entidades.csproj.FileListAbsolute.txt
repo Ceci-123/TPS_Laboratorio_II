@@ -9,3 +9,4 @@ C:\Users\user\source\repos\CalculadoraTP1\Entidades\obj\Debug\net5.0\Entidades.c
 C:\Users\user\source\repos\CalculadoraTP1\Entidades\obj\Debug\net5.0\Entidades.dll
 C:\Users\user\source\repos\CalculadoraTP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
 C:\Users\user\source\repos\CalculadoraTP1\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\user\source\repos\CalculadoraTP1\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
