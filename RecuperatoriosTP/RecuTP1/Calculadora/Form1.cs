@@ -87,17 +87,6 @@ namespace Calculadora
             this.Limpiar();
         }
 
-        private void frmCalculadora_FormClosing(object sender, FormClosedEventArgs e)
-        {
-
-            //if (MessageBox.Show("Seguro quiere salir?", "confirmacion de salida", MessageBoxButtons.YesNo) == DialogResult.No)
-            //{
-            //    this.Close();
-                
-            //}
-           
-
-        }
         
         private void btnCnvBinario_Click(object sender, EventArgs e)
         {
@@ -175,6 +164,15 @@ namespace Calculadora
         private void lblResultado_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void frmCalculadora_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (MessageBox.Show("Seguro quiere salir?", "confirmacion de salida", MessageBoxButtons.YesNo) == DialogResult.No)
+            {
+                e.Cancel = true;  //this.Close();
+
+             }
         }
     }
 }

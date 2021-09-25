@@ -120,7 +120,7 @@ namespace Calculadora
             this.lstOperaciones.Location = new System.Drawing.Point(474, 12);
             this.lstOperaciones.Name = "lstOperaciones";
             this.lstOperaciones.Size = new System.Drawing.Size(213, 290);
-            this.lstOperaciones.TabIndex = 10;
+            this.lstOperaciones.TabIndex = 0;
             this.lstOperaciones.SelectedIndexChanged += new System.EventHandler(this.lstOperaciones_SelectedIndexChanged);
             // 
             // lblResultado
@@ -174,7 +174,7 @@ namespace Calculadora
             this.Name = "frmCalculadora";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de Cecilia Calanna del curso 2° A";
-            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmCalculadora_FormClosing);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmCalculadora_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
