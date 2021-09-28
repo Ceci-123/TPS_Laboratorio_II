@@ -20,11 +20,14 @@ namespace Entidades
             Chico, Mediano, Grande
         }
 
-        EMarca marca;
-        string chasis;
-        ConsoleColor color;
+        private EMarca marca;
+        private string chasis;
+        private ConsoleColor color;
 
-        public abstract ETamanio Tamanio { get; }//set; }
+        /// <summary>
+        /// ReadOnly: Retornará el tamaño
+        /// </summary>
+        protected abstract ETamanio Tamanio { get; }
 
         #region constructor
         public Vehiculo(EMarca marca, string chasis, ConsoleColor color)
@@ -36,15 +39,7 @@ namespace Entidades
         }
         #endregion
 
-        /// <summary>
-        /// ReadOnly: Retornará el tamaño
-        /// </summary>
-       // protected abstract ETamanio Tamanio;
-        //{
-        //    get { return Tamanio; }
-            
-        //}
-
+        
         /// <summary>
         /// Publica todos los datos del Vehiculo.
         /// </summary>
@@ -98,5 +93,22 @@ namespace Entidades
         {
             return (!(v1 == v2));
         }
+        #region soluciono lo del equals y el get hash code
+        public override bool Equals(object obj) //no se si esta bien
+        {
+            Vehiculo unVehiculo = obj as Vehiculo;
+            if (unVehiculo == null)
+            {
+                return false;
+            }
+            return (this == unVehiculo);
+        }
+
+        public override int GetHashCode() //no se si esta bien
+        {
+            return this.GetHashCode();
+        }
+        #endregion
+
     }
 }
