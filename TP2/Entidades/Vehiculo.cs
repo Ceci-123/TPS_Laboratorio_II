@@ -46,18 +46,26 @@ namespace Entidades
         /// <returns></returns>
         public virtual string Mostrar()
         {
+            return (string)this;
+            //StringBuilder sb = new StringBuilder();
+            //sb.AppendFormat("CHASIS: {0}\r\n", this.chasis);
+            //sb.AppendFormat("MARCA : {0}\r\n", this.marca.ToString());
+            //sb.AppendFormat("COLOR : {0}\r\n", this.color.ToString());
+            //sb.AppendLine("---------------------");
+
+            //return sb.ToString();
+        }
+
+        public static explicit operator string(Vehiculo p)   //es public y static????
+        {
+            //return p.Mostrar();
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat("CHASIS: {0}\r\n", this.chasis);
-            sb.AppendFormat("MARCA : {0}\r\n", this.marca.ToString());
-            sb.AppendFormat("COLOR : {0}\r\n", this.color.ToString());
+            sb.AppendFormat("CHASIS: {0}\r\n", p.chasis);
+            sb.AppendFormat("MARCA : {0}\r\n", p.marca.ToString());
+            sb.AppendFormat("COLOR : {0}\r\n", p.color.ToString());
             sb.AppendLine("---------------------");
 
             return sb.ToString();
-        }
-
-        public static explicit operator string(Vehiculo p)
-        {
-            return p.Mostrar();
         }
 
         /// <summary>
@@ -68,20 +76,20 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator ==(Vehiculo v1, Vehiculo v2)
         {
-            bool retorno = false;
-            if (v1 is null && v2 is null)
-            {
-                retorno = true;
-            }
-            else if (v1 is object && v2 is object)
-            {
-                //retorno = v1.chasis == v2.chasis;
-                if (String.Compare(v1.chasis, v2.chasis) == 0)
-                {
-                    retorno = true;
-                }
-            }
-            return retorno;
+            //bool retorno = false;
+            //if (v1 is null && v2 is null)
+            //{
+            //    retorno = true;
+            //}
+            //else if (v1 is object && v2 is object)
+            //{
+             return (v1.chasis == v2.chasis);
+            //    if (String.Compare(v1.chasis, v2.chasis) == 0)
+            //    {
+            //        retorno = true;
+            //    }
+            //}
+            //return retorno;
         }
         /// <summary>
         /// Dos vehiculos son distintos si su chasis es distinto
@@ -96,17 +104,23 @@ namespace Entidades
         #region soluciono lo del equals y el get hash code
         public override bool Equals(object obj) //no se si esta bien
         {
-            Vehiculo unVehiculo = obj as Vehiculo;
-            if (unVehiculo == null)
-            {
-                return false;
-            }
-            return (this == unVehiculo);
+            //Vehiculo unVehiculo = obj as Vehiculo;
+            //if (unVehiculo == null)
+            //{
+            //    return false;
+            //}
+            //return (this == unVehiculo);
+            bool rta = false;
+
+            if (obj is Vehiculo)
+                rta = this == (Vehiculo)obj;
+
+            return rta;
         }
 
         public override int GetHashCode() //no se si esta bien
         {
-            return this.GetHashCode();
+            return base.GetHashCode();
         }
         #endregion
 

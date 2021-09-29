@@ -11,8 +11,8 @@ namespace Entidades
     /// </summary>
     public sealed class Taller
     {
-        List<Vehiculo> vehiculos;
-        int espacioDisponible;
+        private List<Vehiculo> vehiculos;
+        private int espacioDisponible;
         public enum ETipo
         {
             Moto, Automovil, Camioneta, Todos, Ciclomotor, Sedan, SUV
@@ -60,13 +60,25 @@ namespace Entidades
                 switch (tipo)
                 {
                     case ETipo.SUV:   //decia Camioneta
-                        sb.AppendLine(v.Mostrar());
+                        if (v is Suv)
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
+                        
                         break;
                     case ETipo.Ciclomotor:   //decia moto
-                        sb.AppendLine(v.Mostrar());
+                        if(v is Ciclomotor)
+                        {
+                           sb.AppendLine(v.Mostrar());
+
+                        }
                         break;
-                    case ETipo.Automovil:  
-                        sb.AppendLine(v.Mostrar());
+                    case ETipo.Sedan:
+                        if (v is Sedan)
+                        {
+                            sb.AppendLine(v.Mostrar());
+
+                        }
                         break;
                     default:
                         sb.AppendLine(v.Mostrar());
