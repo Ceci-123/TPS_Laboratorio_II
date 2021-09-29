@@ -37,3 +37,13 @@ C:\Users\user\Desktop\tp2\Copia del TP2trabajar aca\TP-02\bin\Debug\Entidades.pd
 C:\Users\user\Desktop\tp2\Copia del TP2trabajar aca\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\user\Desktop\tp2\Copia del TP2trabajar aca\TP-02\obj\Debug\TP-02.exe
 C:\Users\user\Desktop\tp2\Copia del TP2trabajar aca\TP-02\obj\Debug\TP-02.pdb
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\TP-02\bin\Debug\TP-02.exe
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\TP-02\bin\Debug\TP-02.pdb
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\TP-02\bin\Debug\Entidades.dll
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\TP-02\bin\Debug\Entidades.pdb
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\TP-02\obj\Debug\TP-02.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\TP-02\obj\Debug\TP-02.exe
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\TP-02\obj\Debug\TP-02.pdb

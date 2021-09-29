@@ -25,3 +25,9 @@ C:\Users\user\Desktop\tp2\Copia del TP2trabajar aca\Entidades\bin\Debug\Entidade
 C:\Users\user\Desktop\tp2\Copia del TP2trabajar aca\Entidades\bin\Debug\Entidades.pdb
 C:\Users\user\Desktop\tp2\Copia del TP2trabajar aca\Entidades\obj\Debug\Entidades.dll
 C:\Users\user\Desktop\tp2\Copia del TP2trabajar aca\Entidades\obj\Debug\Entidades.pdb
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\Entidades\bin\Debug\Entidades.dll
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\Entidades\bin\Debug\Entidades.pdb
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\Entidades\obj\Debug\Entidades.dll
+C:\Users\user\Desktop\Segundo Cuatri\Programacion\tp2\Copia del TP2trabajar aca\Entidades\obj\Debug\Entidades.pdb

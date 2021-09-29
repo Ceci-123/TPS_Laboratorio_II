@@ -97,22 +97,7 @@ namespace Entidades
             return (!(v1 == v2));
         }
 
-        #region soluciono lo del equals y el get hash code para sacar el warning
-        public override bool Equals(object obj) 
-        {
-            bool rta = false;
-
-            if (obj is Vehiculo)
-                rta = this == (Vehiculo)obj;
-
-            return rta;
-        }
-
-        public override int GetHashCode() 
-        {
-            return base.GetHashCode();
-        }
-        #endregion
+        
 
     }
 }
