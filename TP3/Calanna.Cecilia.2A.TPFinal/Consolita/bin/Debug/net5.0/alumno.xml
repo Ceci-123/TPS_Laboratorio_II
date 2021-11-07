@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Pelicula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumeroDeFase>4</NumeroDeFase>
+  <Nombre>Age of Ultron</Nombre>
+  <Fecha>2015-05-13T00:00:00</Fecha>
+  <ListadoPesonajes>
+    <Personaje />
+    <Personaje />
+    <Personaje />
+  </ListadoPesonajes>
+</Pelicula>

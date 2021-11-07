@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Consolita/1.0.0": {
+        "dependencies": {
+          "Calanna.Cecilia.2A.TPFinal": "1.0.0"
+        },
+        "runtime": {
+          "Consolita.dll": {}
+        }
+      },
+      "Calanna.Cecilia.2A.TPFinal/1.0.0": {
+        "runtime": {
+          "Calanna.Cecilia.2A.TPFinal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consolita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calanna.Cecilia.2A.TPFinal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

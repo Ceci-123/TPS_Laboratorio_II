@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calanna.Cecilia.2A.TPFinal/1.0.0": {
+        "runtime": {
+          "Calanna.Cecilia.2A.TPFinal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calanna.Cecilia.2A.TPFinal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
