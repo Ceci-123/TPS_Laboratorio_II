@@ -60,3 +60,34 @@ C:\Users\user\Desktop\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\ne
 C:\Users\user\Desktop\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\ref\FormularioUniverso.dll
 C:\Users\user\Desktop\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.pdb
 C:\Users\user\Desktop\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.genruntimeconfig.cache
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.Form1.resources
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.FormPrincipal.resources
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.FrmSecundario.resources
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.IniciarHilos.resources
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.Properties.Resources.resources
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.AssemblyInfo.cs
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.dll
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\ref\FormularioUniverso.dll
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.pdb
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\FormularioUniverso.exe
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\FormularioUniverso.deps.json
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\FormularioUniverso.runtimeconfig.json
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\FormularioUniverso.runtimeconfig.dev.json
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\FormularioUniverso.dll
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\ref\FormularioUniverso.dll
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\FormularioUniverso.pdb
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\Calanna.Cecilia.2A.TPFinal.dll
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\bin\Debug\net5.0-windows\Calanna.Cecilia.2A.TPFinal.pdb
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.csproj.CopyComplete
+C:\Users\user\Desktop\Repo de GitHub tps\TPS_Laboratorio_II\RecuperatoriosTP\Calanna.Cecilia.2A.TPFinal\FormularioUniverso\obj\Debug\net5.0-windows\FormularioUniverso.genruntimeconfig.cache

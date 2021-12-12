@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n3vFAwaDiI+kTqY+Of2/ecVX2+iL66xFFeyUcveWQ7GOczQ5X8ozgc0UFOZ4HV61pqNEgsmhzSTnrnFpcOYAmQ==",
+  "dgSpecHash": "T0xcnaVZpzI4PC9CpeWMgirpN2/qtiWhD0pbu8HjUzdYOOoHPDa46ngOw3PBsUX/eXlgP32MPrf/gl/hlHIDMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\TestProjectMarvel\\TestProjectMarvel.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\TestProjectMarvel\\TestProjectMarvel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

@@ -347,7 +347,7 @@ namespace FormularioUniverso
             }
         }
 
-        public void AlumnoNoAprobado(object o, EventArgs e)
+        public void PeliMala(object o, EventArgs e)
         {
            
             this.lstMalas.Items.Add(o);
@@ -355,13 +355,13 @@ namespace FormularioUniverso
 
         }
 
-        public void AlumnoAprobado(object o, EventArgs e)
+        public void PeliBuena(object o, EventArgs e)
         {
             this.lstBuenas.Items.Add(o);
 
         }
 
-        public void AlumnoPromocionado(object o, EventArgs e)
+        public void PeliSuper(object o, EventArgs e)
         {
            
             this.lstSuper.Items.Add(o);

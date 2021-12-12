@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\TestProjectMarvel\\TestProjectMarvel.csproj": {}
+    "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\TestProjectMarvel\\TestProjectMarvel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj": {
+    "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj",
         "projectName": "Calanna.Cecilia.2A.TPFinal",
-        "projectPath": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Consolita\\Consolita.csproj": {
+    "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Consolita\\Consolita.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Consolita\\Consolita.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Consolita\\Consolita.csproj",
         "projectName": "Consolita",
-        "projectPath": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Consolita\\Consolita.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Consolita\\Consolita.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Consolita\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Consolita\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj"
+              "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\TestProjectMarvel\\TestProjectMarvel.csproj": {
+    "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\TestProjectMarvel\\TestProjectMarvel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\TestProjectMarvel\\TestProjectMarvel.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\TestProjectMarvel\\TestProjectMarvel.csproj",
         "projectName": "TestProjectMarvel",
-        "projectPath": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\TestProjectMarvel\\TestProjectMarvel.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\TestProjectMarvel\\TestProjectMarvel.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\TestProjectMarvel\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\TestProjectMarvel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,11 +152,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj"
+              "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal\\Calanna.Cecilia.2A.TPFinal.csproj"
               },
-              "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Consolita\\Consolita.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Consolita\\Consolita.csproj"
+              "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Consolita\\Consolita.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Consolita\\Consolita.csproj"
               }
             }
           }

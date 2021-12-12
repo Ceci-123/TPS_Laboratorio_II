@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UNjU/flARPL+KeIoEK86Z3nWD/RwHHAqneAGL0omgoqgNAHc49dsJYGwY9XLdBd7X0VQ6VWtOz5a2bLGfFGRrg==",
+  "dgSpecHash": "L67SyL0HzV6XlcpOxe8zJjBcYjfOO0Lvc1KN02U8e0g59sn0wPGKQItVwT5Qrgkp1Iqx+W3FpW820gKVcsUcxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\FormularioUniverso\\FormularioUniverso.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\FormularioUniverso\\FormularioUniverso.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

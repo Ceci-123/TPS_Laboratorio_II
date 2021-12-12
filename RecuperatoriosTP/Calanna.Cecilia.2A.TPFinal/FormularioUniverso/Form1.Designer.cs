@@ -68,7 +68,7 @@ namespace FormularioUniverso
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(30, 15);
             this.label1.TabIndex = 2;
-            this.label1.Text = "DNI:";
+            this.label1.Text = "id pelicula:";
             // 
             // label2
             // 
@@ -77,7 +77,7 @@ namespace FormularioUniverso
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(54, 15);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Apellido:";
+            this.label2.Text = "Personaje de la pelicula:";
             // 
             // label3
             // 
@@ -86,7 +86,7 @@ namespace FormularioUniverso
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(54, 15);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Nombre:";
+            this.label3.Text = "Nombre de la Pelicula:";
             // 
             // label4
             // 

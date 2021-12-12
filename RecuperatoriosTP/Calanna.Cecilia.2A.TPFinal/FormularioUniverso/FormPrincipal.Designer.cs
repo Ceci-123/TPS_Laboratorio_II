@@ -224,7 +224,7 @@ namespace FormularioUniverso
             // 
             // btnAgregar
             // 
-            this.btnAgregar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnAgregar.BackColor = System.Drawing.Color.Red;
             this.btnAgregar.Location = new System.Drawing.Point(861, 34);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(75, 23);
@@ -234,7 +234,7 @@ namespace FormularioUniverso
             // 
             // btnModificar
             // 
-            this.btnModificar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnModificar.BackColor = System.Drawing.Color.Red;
             this.btnModificar.Location = new System.Drawing.Point(959, 34);
             this.btnModificar.Name = "btnModificar";
             this.btnModificar.Size = new System.Drawing.Size(75, 23);

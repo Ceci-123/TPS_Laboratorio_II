@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q7Mtvvd/qPQ5YYrZmQNDz0gqfk+Olr5+QKHi0JtQjZSfYs4OYO5rkjriHFaITz0DnqyrncNHakcBGJUtAHxi0Q==",
+  "dgSpecHash": "eAwAUb76gcSRmboH5CUwix/6ifrXQw+lc2uIXjA1MTXKkBohKQ5jkA56PMuk0GlBcmJwJ7ZHVvKaR59Z4jQGOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Calanna.Cecilia.2A.TPFinal\\Consolita\\Consolita.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Repo de GitHub tps\\TPS_Laboratorio_II\\RecuperatoriosTP\\Calanna.Cecilia.2A.TPFinal\\Consolita\\Consolita.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
